@@ -1,8 +1,14 @@
-#+title: Hi, my name is Xiaoxing Hu
+#+title: Hi! 👋 
 
-** Hi there 👋
+#+begin_example
+ __  __  ______  __      __      ______       __     __  ______  ______  __      _____    
+/\ \_\ \/\  ___\/\ \    /\ \    /\  __ \     /\ \  _ \ \/\  __ \/\  == \/\ \    /\  __-.  
+\ \  __ \ \  __\\ \ \___\ \ \___\ \ \/\ \    \ \ \/ ".\ \ \ \/\ \ \  __<\ \ \___\ \ \/\ \ 
+ \ \_\ \_\ \_____\ \_____\ \_____\ \_____\    \ \__/".~\_\ \_____\ \_\ \_\ \_____\ \____- 
+  \/_/\/_/\/_____/\/_____/\/_____/\/_____/     \/_/   \/_/\/_____/\/_/ /_/\/_____/\/____/ 
+                                                                                          
+#+end_example
 
-I am a full stack software engineer from Auckland. I write code for a living and for fun.
+I am a full stack software engineer from Auckland. I write code for a living and (most importantly) for =fun=.
 
-#+html: <div style="color:gold;">can you see me?</div>
 
