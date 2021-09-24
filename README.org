@@ -1,7 +1,8 @@
+#+title: Hi, my name is Xiaoxing Hu
+
 ** Hi there 👋
 
-#+begin_export html
-<div style="background-color:gold;padding:0.5em;">
-  this is a box
-</div>
-#+end_export
+I am a full stack software engineer from Auckland. I write code for a living and for fun.
+
+#+html: <div style="color:gold;">can you see me?</div>
+
